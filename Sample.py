@@ -1,3 +1,6 @@
+from SampleClassFile import Employee
+
+
 print("Hello")
 
 
@@ -25,4 +28,8 @@ new_lst = SampleArray[::-1]
 
 print("Reverse list" + " ")
 print(new_lst)
+
+
+
+print(Employee.FirstName)    
 
